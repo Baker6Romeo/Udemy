@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dce456f-16ec-4616-9ade-63f544c60553" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0dce456f-16ec-4616-9ade-63f544c60553" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section 5/.codelite/Section 5-jonathan_shaw.tags" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section 5/.codelite/Section 5-jonathan_shaw.tags-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section 5/.codelite/Section 5-jonathan_shaw.tags-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section 5/.codelite/valgrind.memcheck.supp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section 5/Section 5.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section4/.codelite/Section4-jonathan_shaw.tags" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++-Masterclass/Section4/.codelite/Section4-jonathan_shaw.tags" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section4/.codelite/Section4-jonathan_shaw.tags-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section4/.codelite/Section4-jonathan_shaw.tags-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section4/Challenge/Challenge.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++-Masterclass/Section4/Challenge/Challenge.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++-Masterclass/Section4/Challenge/Challenge.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++-Masterclass/Section4/Challenge/Challenge.project" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1Okrk9HZINRQqIbnYxgZKoUPpHI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -53,5 +60,11 @@
       <updated>1570369014744</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1581709070600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="382" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581709070600" />
   </component>
 </project>

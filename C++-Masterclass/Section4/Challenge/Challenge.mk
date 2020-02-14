@@ -5,7 +5,7 @@
 ## Debug
 ProjectName            :=Challenge
 ConfigurationName      :=Debug
-WorkspacePath          :=/home/baker6romeo/Documents/Udemy/C++-Masterclass/Section4
+WorkspacePath          :="/home/baker6romeo/Documents/Udemy/C++-Masterclass/Section 5"
 ProjectPath            :=/home/baker6romeo/Documents/Udemy/C++-Masterclass/Section4/Challenge
 IntermediateDirectory  :=./Debug
 OutDir                 := $(IntermediateDirectory)
@@ -13,7 +13,7 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Jonathan Shaw
-Date                   :=17/12/19
+Date                   :=27/01/20
 CodeLitePath           :=/home/baker6romeo/.codelite
 LinkerName             :=/usr/bin/g++
 SharedObjectLinkerName :=/usr/bin/g++ -shared -fPIC
