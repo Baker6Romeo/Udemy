@@ -25,5 +25,7 @@ int main()
   cout << "double: " << sizeof(double) << " bytes." << endl;
   cout << "long double:" << sizeof(long double) << " bytes." <<endl;
 
+
+
   return 0;
 }
